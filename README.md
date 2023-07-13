@@ -1,4 +1,4 @@
-[![MasterHead]( https://www.shutterstock.com/image-illustration/web-development-coding-concept-banner-copy-1955634814)](https://prashant-hada.io)
+[![MasterHead]( https://www.shutterstock.com/image-illustration/web-development-coding-concept-banner-copy-1955634814)](https://prashant-hada)
 <h1 align="center">Hi 👋, I'm Prashant</h1>
 <h3 align="center">I'm a dedicated developer with a deep passion for technology</h3>
 <img align=”right” alt=”Coding” width=”400” scr=” https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif” >
