@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Animations, Canvas**
 
-- 📫 How to reach me **hadaprashant@gmail.com**
+- 📫 How to reach me **hadaprashant2002@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFl4QDCppc/VAxWXrGx8qBndfbbykjk8g/view?utm_content=DAFl4QDCppc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFl4QDCppc/VAxWXrGx8qBndfbbykjk8g/view?utm_content=DAFl4QDCppc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
